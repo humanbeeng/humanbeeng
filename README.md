@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-&nbsp; [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2ybwa2093kauklluigjt2xr25&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
+&nbsp; [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2ybwa2093kauklluigjt2xr25&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)<br/>
 ![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=humanbeeng&hide=contribs,prs)
