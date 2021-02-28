@@ -3,7 +3,7 @@
 
 
 <img align="right" alt="GIF" height="140px" src="https://github.com/humanbeeng/humanbeeng/blob/main/assets/moonwalk.gif" />
-<h2>I'm a Computer Science and Engineering Student </h2>
+<h3>I'm a Computer Science and Engineering Student </h3>
 
 - 💻 Working on web development technologies like JavaScript, React, NodeJS etc.
 - 📚 Solving problems on Codeforces.
@@ -84,6 +84,6 @@
 
 
 ----
-Credit: [Bgstatic](https://github.com/Bgstatic)
+
 
 Last Edited on: 23/09/2020
