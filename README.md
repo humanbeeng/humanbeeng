@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-&nbsp; [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2ybwa2093kauklluigjt2xr25&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)<br/>
+(https://github.com/kittinan/spotify-github-profile)<br/>
 ![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=humanbeeng&hide=contribs,prs)
 
 # Hi there, I'm Nithin - aka [humanbeeng][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/2ybwa2093kauklluigjt2xr25)
+&nbsp; [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2ybwa2093kauklluigjt2xr25&cover_image=false&theme=light)]
 
 ---
 
