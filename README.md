@@ -4,11 +4,11 @@
 
 <img align="right" alt="GIF" height="140px" src="https://github.com/humanbeeng/humanbeeng/blob/main/assets/moonwalk.gif" />
 ## I'm a Computer Science and Engineering Student  
-
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+### I’m currently : 
+- 💻 Working on web development technologies like JavaScript, React, NodeJS etc.
+- 📚 Solving problems on Codeforces.
+- 💪🏼 Future Goals  : Learn more technologies and be a proficient Problem Solver.
+- ⚡ Fun fact      : I love to play Valorant and go Cycling.
 
 ---
 
