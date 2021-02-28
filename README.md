@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-&nbsp; [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2ybwa2093kauklluigjt2xr25&cover_image=false&theme=light)]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2ybwa2093kauklluigjt2xr25&cover_image=false&theme=light)]
 
 ---
 
