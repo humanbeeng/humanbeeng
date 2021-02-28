@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" height="140px" src="https://github.com/humanbeeng/humanbeeng/blob/main/assets/moonwalk.gif" />
 ## I'm a Computer Science and Engineering Student  
-### I’m currently : 
+
 - 💻 Working on web development technologies like JavaScript, React, NodeJS etc.
 - 📚 Solving problems on Codeforces.
 - 💪🏼 Future Goals  : Learn more technologies and be a proficient Problem Solver.
