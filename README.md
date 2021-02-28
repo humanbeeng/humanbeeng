@@ -3,7 +3,7 @@
 
 
 <img align="right" alt="GIF" height="140px" src="https://github.com/humanbeeng/humanbeeng/blob/main/assets/moonwalk.gif" />
-<h3>I'm a Computer Science and Engineering Student </h3>
+<h3>I'm a Computer Science Engineering Student </h3>
 
 - 💻 Working on web development technologies like JavaScript, React, NodeJS etc.
 - 📚 Solving problems on Codeforces.
@@ -76,17 +76,12 @@
 ---
 
 ### ⭐️ From [humanbeeng](https://github.com/humanbeeng) ### 
+Thanks for dropping by ❤️
 
 ---
-
 [website]: https://nithinsj.netlify.app
 [instagram]: https://www.instagram.com/thenithinraj
 [linkedin]: https://www.linkedin.com/in/thenithinraj
 [Spotify]: https://open.spotify.com/user/2ybwa2093kauklluigjt2xr25
 [Discord]: https://discord.gg/2C8cRAcFnq
-
-
-----
-
-
 Last Edited on: 23/09/2020
