@@ -54,8 +54,10 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Android](http://img.shields.io/badge/-Android-5B4638?style=flat-square&logo=android&logoColor=fffeff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![AWS](https://img.shields.io/badge/-AWS-%23F05032?style=flat-square&logo=amazon&logoColor=%23ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
+![NodeJS](https://img.shields.io/badge/-NodeJS-%23F05032?style=flat-square&logo=nodejs&logoColor=%23ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-5B4638?style=flat-square&logo=ubuntu&logoColor=ffffff)
@@ -67,16 +69,15 @@
 
 <br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  ![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=humanbeeng&hide=contribs,prs)
+  ![](https://github.com/humanbeeng/github-stats/blob/master/generated/overview.svg)
+  ![](https://github.com/humanbeeng/github-stats/blob/master/generated/languages.svg)
 
 <br/>
 
 ---
 
 ### ⭐️ From [humanbeeng](https://github.com/humanbeeng) ### 
-Thanks for dropping by ❤️
+Thanks for dropping by ❤️ You are awesome ⚡
 
 ---
 [website]: https://nithinsj.netlify.app
