@@ -83,6 +83,7 @@
 [instagram]: https://www.instagram.com/thenithinraj
 [linkedin]: https://www.linkedin.com/in/thenithinraj
 [Spotify]: https://open.spotify.com/user/2ybwa2093kauklluigjt2xr25
+[Discord]: https://discord.gg/2C8cRAcFnq
 
 
 ----
