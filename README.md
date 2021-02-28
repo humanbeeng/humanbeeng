@@ -86,4 +86,4 @@ Thanks for dropping by ❤️ You are awesome ⚡
 [linkedin]: https://www.linkedin.com/in/thenithinraj
 [Spotify]: https://open.spotify.com/user/2ybwa2093kauklluigjt2xr25
 [Discord]: https://discord.gg/2C8cRAcFnq
-Last Edited on: 23/09/2020
+Last Edited on: 1st March, 2021
