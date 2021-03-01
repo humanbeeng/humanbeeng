@@ -32,7 +32,7 @@ import { Nithin } from "Awesomeness";
 const languages = ["C++", "JavaScript", "Python", "Bash", "Java"];
 const frameworks = ["ReactJS", "NodeJS", "Bulma", "Flutter", "Metasploit"];
 const databases = ["MongoDB", "MySQL", "SQLite"];
-const interests = ["CP", "Web Dev", "Data Structures and Algorithms", "Android OS"];
+const interests = ["CP", "Web Dev", "Data Structures and Algorithms", "Android OS","Web Security"];
 
 Nithin.skills.push(...languages, ...frameworks, ...databases, ...interests);
 ```
