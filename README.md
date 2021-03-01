@@ -21,6 +21,21 @@
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=humanbeeng&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+<p align="center">
+  Me as a code... 
+  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
+</p>
+
+```javascript
+import { Nithin } from "Awesomeness";
+
+const languages = ["C++", "JavaScript", "Python", "Bash", "Java"];
+const frameworks = ["ReactJS", "NodeJS", "Bulma", "Flutter", "Metasploit"];
+const databases = ["MongoDB", "MySQL", "SQLite"];
+const interests = ["CP", "Web Dev", "Data Structures and Algorithms", "Android OS"];
+
+Nithin.skills.push(...languages, ...frameworks, ...databases, ...interests);
+```
 
 ### Contact me 📝
 
