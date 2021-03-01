@@ -82,7 +82,7 @@ Thanks for dropping by ❤️ You are awesome ⚡
 
 ---
 [website]: https://nithinsj.netlify.app
-[instagram]: https://www.instagram.com/thenithinraj
+[instagram]: https://www.instagram.com/iamnithinraj
 [linkedin]: https://www.linkedin.com/in/thenithinraj
 [Spotify]: https://open.spotify.com/user/2ybwa2093kauklluigjt2xr25
 [Discord]: https://discord.gg/2C8cRAcFnq
