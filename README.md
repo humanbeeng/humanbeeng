@@ -20,7 +20,7 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=humanbeeng&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
 <p align="center">
   Me as a code... 
   <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
@@ -36,6 +36,7 @@ const interests = ["CP", "Web Dev", "Data Structures and Algorithms", "Android O
 
 Nithin.skills.push(...languages, ...frameworks, ...databases, ...interests);
 ```
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=humanbeeng&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact me 📝
 
