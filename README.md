@@ -93,10 +93,10 @@ Nithin.skills.push(...languages, ...frameworks, ...databases, ...interests);
 
 ---
 
-### ⭐️ From [humanbeeng](https://github.com/humanbeeng) ### 
-Thanks for dropping by ❤️ You are awesome ⚡
+ 
+<p align="center">Thanks for dropping by ❤️ You are awesome ⚡</p>
 
----
+
 [website]: https://nithinsj.netlify.app
 [instagram]: https://www.instagram.com/iamnithinraj
 [linkedin]: https://www.linkedin.com/in/thenithinraj
