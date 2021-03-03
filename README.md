@@ -9,7 +9,6 @@
 - 💻 Working on web development technologies like JavaScript, React, NodeJS etc.
 - 📚 Solving problems on Codeforces.
 - 😴 Takin a nap. or sippin Coffee ☕
-- 
 <br/>
 - 💪🏼 Future Goals  : Learn more technologies and be a proficient Problem Solver.
 - ⚡ Fun fact      : I love Valorant 🎮  and to go on Cycling looong wayy 🚴🏻.
