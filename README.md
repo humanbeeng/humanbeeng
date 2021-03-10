@@ -19,7 +19,7 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2ybwa2093kauklluigjt2xr25&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bytm7qlcjaxqgwm7hksgq6pkg&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
