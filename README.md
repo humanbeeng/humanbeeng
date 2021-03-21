@@ -3,7 +3,7 @@
 
 
 <img align="right" alt="GIF" height="140px" src="https://github.com/humanbeeng/humanbeeng/blob/main/assets/moonwalk.gif" />
-<h3>I'm a passionate CSE Student, Competitive Programmer and a Full Stack Dev.  </h3>
+<h3>I'm a passionate Competitive Programmer, CSE Student and a Full Stack Dev.  </h3>
 <h5>Currently I'll be : </h5>
 
 - 💻 Working on web development technologies like JavaScript, React, NodeJS etc.
