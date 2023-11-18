@@ -1,9 +1,9 @@
 
-#### I'm Nithin, Senior Engineer at one of the Fintech company. 
+### I'm Nithin, Senior Engineer at one of the Fintech company. 
 
 Java Champ by day, Gopher at night.
 
-<h5>Outside work, I'll either be digging into one of these things: </h5>
+<h4>Outside work, I'll either be digging into one of these things: </h5>
 
 - Database Internals.
 - Dev tools (ASTs, Interpreters, Language Servers)
