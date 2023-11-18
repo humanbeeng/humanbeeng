@@ -9,9 +9,10 @@ Java Champ by day, Gopher at night.
 - Dev tools (ASTs, Interpreters, Language Servers)
 - Reading open-source code.
 - Implementing known tools that I use from scratch(Containers, KV-Store, Loadbalancer)
-- Tweaking my Neovim (can't help 😓)
+- Tweaking my configs (can't help 😓): awesomewm neovim tmux zsh.
 
 <br/>
+
 
 ---
 ### Stats 📊
