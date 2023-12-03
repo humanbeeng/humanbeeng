@@ -1,7 +1,7 @@
 
-### I'm Nithin, Senior Engineer at one of the Fintech company. 
+##### Hey !
 
-Java Champ by day, Gopher at night.
+I'm Nithin! I work at a fintech company as a Senior Software Engineer. Java Champ by day, Gopher at night.
 
 <h4>Outside work, I'll either be digging into one of these things: </h5>
 
@@ -9,7 +9,7 @@ Java Champ by day, Gopher at night.
 - Dev tools (ASTs, Interpreters, Language Servers)
 - Reading open-source code.
 - Implementing known tools that I use from scratch(Containers, KV-Store, Loadbalancer)
-- Tweaking my configs (can't help 😓): awesomewm neovim tmux zsh.
+- Tweaking my configs (can't help 😓): `ubuntu + awesomewm, neovim, tmux, zsh`
 
 <br/>
 
