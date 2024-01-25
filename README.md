@@ -9,7 +9,7 @@ I'm Nithin! I work at a fintech company as a Senior Software Engineer. Java Cham
 - Dev tools (ASTs, Interpreters, Language Servers)
 - Reading open-source code.
 - Implementing known tools that I use from scratch(Containers, KV-Store, Loadbalancer)
-- Tweaking my configs (can't help 😓): `ubuntu + awesomewm, neovim, tmux, zsh`
+- Tweaking my configs (can't help 😓): `ubuntu + i3wm, Neovim, tmux, zsh`
 
 <br/>
 
