@@ -9,10 +9,12 @@ I'm Nithin! I work at a fintech company as a Senior Software Engineer. Java Cham
 - Dev tools (ASTs, Interpreters, Language Servers)
 - Reading open-source code.
 - Implementing known tools that I use from scratch(Containers, KV-Store, Loadbalancer)
-- Tweaking my configs (can't help 😓): `ubuntu + i3wm, Neovim, tmux, zsh`
+- Tweaking my configs: `ubuntu + i3wm, Neovim, tmux, fish`
 
 <br/>
 
+- Currently I'm learning Rust and working on an in-memory SQL database [sqldb-rs](https://github.com/humanbeeng/sqldb-rs)
+- Reading https://interpreterbook.com/
 
 ---
 ### Stats 📊
