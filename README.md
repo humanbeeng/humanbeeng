@@ -13,7 +13,8 @@ I'm Nithin! I work at a fintech company as a Senior Software Engineer. Java Cham
 
 <br/>
 
-- Currently I'm learning Rust and working on an in-memory SQL database [sqldb-rs](https://github.com/humanbeeng/sqldb-rs)
+Currently 
+- I'm learning Rust and working on an in-memory SQL database [sqldb-rs](https://github.com/humanbeeng/sqldb-rs)
 - Reading https://interpreterbook.com/
 
 ---
