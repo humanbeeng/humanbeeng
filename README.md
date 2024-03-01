@@ -29,11 +29,9 @@ I'm Nithin! I work at a fintech company as a Senior Software Engineer. Java Cham
 ---
 
  
-<p align="center">Thanks for dropping by ❤️ You are awesome ⚡</p>
 
 
-[website]: https://nithinsj.netlify.app
-[instagram]: https://www.instagram.com/iamnithinraj
+[website]: https://n7j.in
 [linkedin]: https://www.linkedin.com/in/thenithinraj
 [Twitter]: https://twitter.com/nithinrajx
-Last Edited on: 1st March, 2021
+Last Edited on: 1st March, 2024
