@@ -29,10 +29,4 @@ Currently
 
 ---
 
- 
-
-
-[website]: https://n7j.in
-[linkedin]: https://www.linkedin.com/in/thenithinraj
-[Twitter]: https://twitter.com/nithinrajx
 Last Edited on: 1st March, 2024
