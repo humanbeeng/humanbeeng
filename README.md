@@ -1,7 +1,7 @@
 
 ##### Hey !
 
-I'm Nithin! I work at a fintech company as a Senior Software Engineer. Java Champ by day, Gopher at night.
+I'm Nithin! I work at a fintech company as a Senior Software Engineer. Java Champ by day, one man startup at night.
 
 <h4>Outside work, I'll either be digging into one of these things: </h5>
 
