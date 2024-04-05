@@ -6,15 +6,15 @@ I'm Nithin! I work at a fintech company as a Senior Software Engineer. Java Cham
 <h4>Outside work, I'll either be digging into one of these things: </h5>
 
 - Database Internals.
+- AWS Developer Associate
 - Dev tools (ASTs, Interpreters, Language Servers)
 - Reading open-source code.
 - Implementing known tools that I use from scratch(Containers, KV-Store, Loadbalancer)
-- Tweaking my configs: `ubuntu + i3wm, neovim, tmux, fish`
+- Tweaking my configs: `i3wm, neovim, tmux, fish`
 
 <br/>
 
-Currently 
-- Working on [Checkpost - RequestInspector alternative](https://checkpost.io)
+Currently working on [Checkpost - RequestInspector alternative](https://checkpost.io)
 
 ---
 ### Stats 📊
