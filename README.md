@@ -17,16 +17,4 @@ I'm Nithin! I work at a fintech company as a Senior Software Engineer. Java Cham
 
 Currently working on [Checkpost - RequestInspector alternative](https://checkpost.io)
 
----
-### Stats 📊
-
-<br/>
-
-
-![](https://github.com/humanbeeng/github-stats/blob/master/generated/overview.svg)
-
-<br/>
-
----
-
 Last Edited on: 1st March, 2024
