@@ -11,6 +11,7 @@ I'm Nithin! I work at a fintech company as a Senior Software Engineer. Java Cham
 - Reading open-source code.
 - Implementing known tools that I use from scratch(Containers, KV-Store, Loadbalancer)
 - Tweaking my configs: `i3wm, neovim, tmux, fish`
+- Working on my typing speed on monkeytype(currently at 90+ avg, 106 max)
 
 <br/>
 
