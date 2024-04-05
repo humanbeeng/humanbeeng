@@ -1,7 +1,7 @@
 
 ##### Hey !
 
-I'm Nithin! I work at a fintech company as a Senior Software Engineer. Java Champ by day, one man startup at night.
+I'm Nithin! I work at a fintech company as a Senior Software Engineer. Java champ by day, one man startup at night.
 
 <h4>Outside work, I'll either be digging into one of these things: </h5>
 
@@ -10,8 +10,8 @@ I'm Nithin! I work at a fintech company as a Senior Software Engineer. Java Cham
 - Dev tools (ASTs, Interpreters, Language Servers)
 - Reading open-source code.
 - Implementing known tools that I use from scratch(Containers, KV-Store, Loadbalancer)
-- Tweaking my configs: `i3wm, neovim, tmux, fish`
-- Working on my typing speed on monkeytype(currently at 90+ avg, 106 max)
+- Tweaking my configs: i3wm, neovim, tmux, fish
+- Monkeytype (currently at 90+wpm avg, 106wpm max)
 
 <br/>
 
